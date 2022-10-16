@@ -10,8 +10,8 @@ int main(void)
 	c = 0;
 	while
 		(c < 10) {
-			putchdar(c + '0');
-			c++
+			putchar(c + '0');
+			c++;
 		}
 	putchar('\n');
 	return (0);

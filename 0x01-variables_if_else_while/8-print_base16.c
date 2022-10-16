@@ -19,8 +19,8 @@ int main(void)
 	while
 		(c <= 'f') {
 			putcharr(c);
-			c++
+			c++;
 		}
-	putcharr('\n');
+	putchar('\n');
 	return (0);
 }
