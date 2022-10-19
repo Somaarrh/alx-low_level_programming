@@ -6,7 +6,7 @@
  * @b: second number
  * Return: addition of both
  */
-int add(int a, iny b)
+int add(int a, int b)
 {
 	return (a + b);
 }
